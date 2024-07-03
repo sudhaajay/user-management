@@ -27,7 +27,7 @@ class Landing{
                 this.saveData();
                 alert("Registaration Successfully");
                 // method to navigate to a new html page
-                window.location = "login.html"
+                window.location = "index.html"
             }
       
         }
